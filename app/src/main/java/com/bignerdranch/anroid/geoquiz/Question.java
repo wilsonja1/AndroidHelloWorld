@@ -1,5 +1,8 @@
 package com.bignerdranch.anroid.geoquiz;
 
+import android.widget.Button;
+import android.widget.TextView;
+
 /**
  * Created by battl on 9/27/2017.
  */
