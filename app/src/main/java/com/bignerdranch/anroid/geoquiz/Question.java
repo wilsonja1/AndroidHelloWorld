@@ -3,10 +3,6 @@ package com.bignerdranch.anroid.geoquiz;
 import android.widget.Button;
 import android.widget.TextView;
 
-/**
- * Created by battl on 9/27/2017.
- */
-
 public class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
